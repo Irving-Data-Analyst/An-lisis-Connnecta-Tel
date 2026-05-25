@@ -3,6 +3,9 @@
 En este análisis identificaremos los clientes de mayor uso de la línea, segmentándolos por edades 
 
 Ocupé tres data sets para hacer esta evaluación de clientes; fueron 'plans.csv', 'users_latam.csv' y 'usage.csv'
+plans: https://drive.usercontent.google.com/download?id=17Mkcs9rRWwiC_gaqVBYuFieON7s9v7Bn&export=download&authuser=0
+users_latam: https://drive.usercontent.google.com/download?id=17wuqxalUsUnw9PXvCN2_UaAz6xeS9B0T&export=download&authuser=0
+usage: https://drive.usercontent.google.com/download?id=11T8MQf-ouxJu9tia4F8aNpY7M_fb9O4h&export=download&authuser=0
 
 Primeramente hice un análisis exploratorio para validar nulos y sentineles, al mismo tiempo que identificaba los tipos de valores de cada columna.
 
